@@ -1,0 +1,15 @@
+{
+    "name": "zdirnecamlcs96/laravel-cors-allow",
+    "autoload": {
+        "psr-4": {
+            "Zdirnecamlcs96\\LaravelCorsAllow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zdirnecamlcs96",
+            "email": "12760908+zdirnecamlcs96@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
